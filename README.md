@@ -1,4 +1,5 @@
 Blogs-App
+
 A simple Blog app implemented using Express, NodeJS and MongoDB.
 
 A practice project to understand the 7 RESTful Routes. In a REST environment, CRUD often corresponds to the HTTP methods POST, GET, PUT, and DELETE.
